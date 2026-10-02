@@ -111,7 +111,7 @@ Thank you.`;
 
     /* Open WhatsApp */
 
-    window.open(whatsappURL,"_blank");
+    window.open(whatsappURL,target= "_blank");
 
 });
 
